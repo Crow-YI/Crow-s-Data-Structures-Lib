@@ -1,0 +1,11 @@
+E:\VS2022\csCode\CDSL\CDSL\bin\Debug\net8.0\CDSL.deps.json
+E:\VS2022\csCode\CDSL\CDSL\bin\Debug\net8.0\CDSL.dll
+E:\VS2022\csCode\CDSL\CDSL\bin\Debug\net8.0\CDSL.pdb
+E:\VS2022\csCode\CDSL\CDSL\obj\Debug\net8.0\CDSL.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022\csCode\CDSL\CDSL\obj\Debug\net8.0\CDSL.AssemblyInfoInputs.cache
+E:\VS2022\csCode\CDSL\CDSL\obj\Debug\net8.0\CDSL.AssemblyInfo.cs
+E:\VS2022\csCode\CDSL\CDSL\obj\Debug\net8.0\CDSL.csproj.CoreCompileInputs.cache
+E:\VS2022\csCode\CDSL\CDSL\obj\Debug\net8.0\CDSL.dll
+E:\VS2022\csCode\CDSL\CDSL\obj\Debug\net8.0\refint\CDSL.dll
+E:\VS2022\csCode\CDSL\CDSL\obj\Debug\net8.0\CDSL.pdb
+E:\VS2022\csCode\CDSL\CDSL\obj\Debug\net8.0\ref\CDSL.dll

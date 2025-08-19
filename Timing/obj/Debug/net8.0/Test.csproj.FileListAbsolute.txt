@@ -1,0 +1,11 @@
+E:\VS2022\csCode\CDSL\Timing\bin\Debug\net8.0\Test.deps.json
+E:\VS2022\csCode\CDSL\Timing\bin\Debug\net8.0\Test.dll
+E:\VS2022\csCode\CDSL\Timing\bin\Debug\net8.0\Test.pdb
+E:\VS2022\csCode\CDSL\Timing\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS2022\csCode\CDSL\Timing\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+E:\VS2022\csCode\CDSL\Timing\obj\Debug\net8.0\Test.AssemblyInfo.cs
+E:\VS2022\csCode\CDSL\Timing\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+E:\VS2022\csCode\CDSL\Timing\obj\Debug\net8.0\Test.dll
+E:\VS2022\csCode\CDSL\Timing\obj\Debug\net8.0\refint\Test.dll
+E:\VS2022\csCode\CDSL\Timing\obj\Debug\net8.0\Test.pdb
+E:\VS2022\csCode\CDSL\Timing\obj\Debug\net8.0\ref\Test.dll
